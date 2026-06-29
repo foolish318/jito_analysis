@@ -1,0 +1,5 @@
+Mechanism family,Variables,Module-only R?,R? after adding to stake baseline,Incremental R? vs stake baseline,R? loss if dropped from full model,Candidate attenuation vs stake baseline,Evidence strength
+Latency / infra / reliability,11,0.3463700255445408,0.741648730249942,0.03928584162271298,0.01162891488740947,-0.02047207158966792,partial / indirect
+Private order-flow / searcher-flow,18,0.5006602008750237,0.7658465284640712,0.06348363983684213,0.03098733811696297,-0.1029646560683463,strongest among available proxies
+Bundle outcome / landed execution,18,0.3503380229989247,0.7475110238417624,0.04514813521453331,0.01428065256332167,-0.5245705439643684,partial / landed-only
+Entity / vertical integration,6,0.2510178672681901,0.7195063602366082,0.01714347160937912,0.01307516521398977,0.09650766743928206,weak / suggestive
